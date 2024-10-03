@@ -5,4 +5,4 @@ I have also included a newer version of the dataset article in [DREAMER_A_Databa
 
 The report for the project is written in Persian as a part of my undergraduate studies. If you need any help or clarification, please contact me.
 
-We reached the accuracy of 72.46% for 'Arousal' dimension of emotion, which is 10% more than literacture (62.32%)!
+We reached the accuracy of 72.46% for 'Arousal' dimension of emotion, which is 10% more than literature (62.32%)!
